@@ -1,3 +1,9 @@
+.idea/
+.cproject
+.project
+#build stuff
+_build/
+
 # Object files
 *.o
 *.ko
