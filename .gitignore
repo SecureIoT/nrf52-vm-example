@@ -2,7 +2,7 @@
 .cproject
 .project
 #build stuff
-_build
+_build/*
 
 # Object files
 *.o
